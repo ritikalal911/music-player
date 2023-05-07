@@ -3,9 +3,21 @@ D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\music player.exe
 D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\music player.pdb
 D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music player.csproj.AssemblyReference.cache
 D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music player.csproj.SuggestedBindingRedirects.cache
-D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music_player.Form1.resources
 D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music_player.Properties.Resources.resources
 D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music player.csproj.GenerateResource.cache
 D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music player.csproj.CoreCompileInputs.cache
 D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music player.exe
 D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music player.pdb
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\AjaxControlToolkit.dll
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music player.csproj.CopyComplete
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music_player.Login.resources
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\Newtonsoft.Json.dll
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\Twilio.dll
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\Newtonsoft.Json.xml
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\bin\Debug\Twilio.xml
+D:\Khushi\GUNI\SEM 4\ADT\music player\music player\obj\Debug\music player.exe.config
